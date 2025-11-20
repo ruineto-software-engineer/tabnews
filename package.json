@@ -1,0 +1,11 @@
+{
+  "name": "tabnews",
+  "version": "1.0.0",
+  "description": "Implementação clonada do https://tabnews.com.br na formação técnica https://curso.dev",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Rui Neto (ruineto11@gmail.com)",
+  "license": "MIT"
+}
