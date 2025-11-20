@@ -4,8 +4,13 @@
   "description": "Implementação clonada do https://tabnews.com.br na formação técnica https://curso.dev",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "dev": "next dev"
   },
   "author": "Rui Neto (ruineto11@gmail.com)",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "next": "^13.1.6",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
 }
